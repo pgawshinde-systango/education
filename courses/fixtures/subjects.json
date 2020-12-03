@@ -1,0 +1,12 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Mathematics",
+    "slug": "mathematics",
+    "created_at": "2020-11-25T05:48:17.730Z",
+    "modified_at": "2020-11-25T05:48:17.730Z"
+  }
+}
+]
